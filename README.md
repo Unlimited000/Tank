@@ -295,8 +295,14 @@ Markdown은 텍스트 기반의 마크업 언어로 존 그루버가 만들었�
 
 오늘 퇴근하고 사야될 것들
 * 맥주
-  + 필굿
-  + 필라이트
+    + 필굿
+    + 필라이트
 * 텍사스 윙봉
 * 스포츠테이프
 * 생수
+
+[구글](http://google.com)
+[네이버](http://www.naver.com)
+[내 사이트](http://bbbb7788.dothome.co.kr/library)
+
+***
